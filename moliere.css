@@ -1,9 +1,9 @@
-.speech{
+p.speech{
     font-family: "Times New Roman", Times, serif;
     font-size: small;
     color:black;
 }
-.direction{
+p.direction{
     font-family: "Times New Roman", Times, serif;
     font-size: small;
     color:black;
@@ -14,7 +14,7 @@
     font-size: small;
     color:black;
 }
-.direction:hover{
+p.direction:hover{
     background-color: gray;
     color: white;
 }
