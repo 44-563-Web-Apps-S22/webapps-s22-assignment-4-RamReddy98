@@ -14,7 +14,7 @@ p.stagedirection{
     font-size: 15px;
     color:black;
 }
-.direction:hover{
+p.stagedirection:hover{
     background-color: gray;
     color: white;
 }
