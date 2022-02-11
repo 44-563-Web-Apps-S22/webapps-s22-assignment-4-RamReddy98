@@ -1,0 +1,26 @@
+.speech{
+    font-family: "Times New Roman", Times, serif;
+    font-size: small;
+    color:black;
+}
+.direction{
+    font-family: "Times New Roman", Times, serif;
+    font-size: small;
+    color:black;
+    background-color: lavender;
+}
+.name{
+    font-family: "Times New Roman", Times, serif;
+    font-size: small;
+    color:black;
+}
+.direction:hover{
+    background-color: gray;
+    color: white;
+}
+.HARPAGON{
+    color:green;
+}
+.CLÉANTE{
+    color:green;
+}
