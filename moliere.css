@@ -1,17 +1,17 @@
 p.speech{
     font-family: "Times New Roman", Times, serif;
-    font-size: small;
+    font-size: 20px;
     color:black;
 }
 p.direction{
     font-family: "Times New Roman", Times, serif;
-    font-size: small;
+    font-size: 20px;
     color:black;
     background-color: lavender;
 }
 .name{
     font-family: "Times New Roman", Times, serif;
-    font-size: small;
+    font-size: 20px;
     color:black;
 }
 p.direction:hover{
