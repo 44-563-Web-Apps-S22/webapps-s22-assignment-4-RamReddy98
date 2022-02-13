@@ -35,7 +35,7 @@ td{
 }
 th{
   border: 2px solid black;
-  text-align: left;
+  text-align: center;
   background-color: bisque;
 }
 tr:nth-child(even) {
