@@ -55,7 +55,7 @@ span h6:hover{
 }   
 
 .name:hover{
-    text-shadow: 2px 2px 5px yellow;
+    text-shadow: 2px 2px 5px red;
     color: teal;
     filter: pink(3px);
     border: double 2px black;
