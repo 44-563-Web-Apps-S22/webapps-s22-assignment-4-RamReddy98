@@ -1,9 +1,9 @@
-p.speech{
+.speech{
     font-family: "Times New Roman", Times, serif;
     font-size: 15px;
     color:black;
 }
-p.stagedirection{
+.stagedirection{
     font-family: "Times New Roman", Times, serif;
     font-size: 15px;
     color:black;
