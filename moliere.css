@@ -87,7 +87,7 @@ span h6:hover{
     background-color:black;
   }
   
-  @media screen and (max-width: 500px) {
+  @media screen and (max-width: 300px) {
     .navbar a {
       float: none;
       display: block;
