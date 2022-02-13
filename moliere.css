@@ -64,6 +64,7 @@ span h6:hover{
 .navigation {
     width: 100%;
     overflow: auto;
+    float: left;
   }
   
   .navigation a {
