@@ -46,3 +46,10 @@ th{
 tr:nth-child(even) {
   background-color: lightblue;
 }  
+
+.name:hover{
+    text-shadow:2px 4px 3px rgb(rgb(29, 116, 122));
+    color: teal;
+    filter: pink(3px);
+    border: double 2px black;
+}   
