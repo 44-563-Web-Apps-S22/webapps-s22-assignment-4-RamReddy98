@@ -53,9 +53,9 @@ span h6:hover{
     font-size: 20px;
     border: dotted;
 }   
- 
+
 .name:hover{
-    text-shadow:2px 4px 3px rgb(rgb(29, 116, 122));
+    text-shadow: 2px 2px 5px red;
     color: teal;
     filter: pink(3px);
     border: double 2px black;
