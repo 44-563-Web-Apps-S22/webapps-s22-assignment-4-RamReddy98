@@ -41,6 +41,6 @@ th{
   padding: 5px;
   margin: 10px;
 }
-tr:nth-child(even) {
+tr:nth-child(odd) {
   background-color: lightblue;
 }  
