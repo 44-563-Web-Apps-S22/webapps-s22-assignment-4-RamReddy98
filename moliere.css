@@ -67,7 +67,7 @@ span h6:hover{
   }
   
   .navigation a {
-    float: left;
+    float:left;
     padding: 15px;
     color:black;
     background-color: coral;
