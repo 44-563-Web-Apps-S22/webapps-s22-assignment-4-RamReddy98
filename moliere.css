@@ -9,7 +9,7 @@ p.stagedirection{
     color:black;
     background-color: lightskyblue;
 }
-p.name{
+.name{
     font-family: "Times New Roman", Times, serif;
     font-size: 15px;
     color:black;
@@ -47,7 +47,7 @@ tr:nth-child(even) {
   background-color: lightblue;
 }  
 
-p.name:hover{
+.name:hover{
     text-shadow:2px 4px 3px rgb(rgb(29, 116, 122));
     color: teal;
     filter: pink(3px);
