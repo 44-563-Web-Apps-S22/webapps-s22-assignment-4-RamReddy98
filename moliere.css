@@ -30,7 +30,7 @@ td{
   border: 1px solid black;
   border-collapse: collapse;  
   text-align: left;
-  color: red;
+  color: black;
   padding: 5px;
 }
 th{
@@ -39,5 +39,5 @@ th{
   background-color: bisque;
 }
 tr:nth-child(even) {
-  background-color: lightslategray;
+  background-color: light;
 }  
