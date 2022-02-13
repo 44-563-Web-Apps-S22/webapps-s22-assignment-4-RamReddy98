@@ -39,5 +39,5 @@ th{
   background-color: bisque;
 }
 tr:nth-child(even) {
-  background-color: lightgreen;
+  background-color: lightslategray;
 }  
