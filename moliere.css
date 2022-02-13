@@ -38,6 +38,8 @@ th{
   border: 2px solid black;
   text-align: center;
   background-color: bisque;
+  padding: 8px;
+  margin: 10px;
 }
 tr:nth-child(even) {
   background-color: lightblue;
