@@ -47,8 +47,6 @@ tr:nth-child(even) {
   background-color: lightblue;
 }  
 
-
-
 .name:hover{
     text-shadow: 2px 2px 5px red;
     color: teal;
