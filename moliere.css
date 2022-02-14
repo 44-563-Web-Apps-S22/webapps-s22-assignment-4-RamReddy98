@@ -47,12 +47,7 @@ tr:nth-child(even) {
   background-color: lightblue;
 }  
 
-span h6:hover{
-    text-shadow: 0 0 2px black;
-    color: transparent;
-    font-size: 20px;
-    border: dotted;
-}   
+
 
 .name:hover{
     text-shadow: 2px 2px 5px red;
